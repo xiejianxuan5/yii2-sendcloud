@@ -2,17 +2,17 @@
 
 need configuration
 
-'components' => [
-        ....
-        'sendmailer' => [
-            'class' => 'xiejianxuan5\sendcloud\Mailer',
-            'apiUser' => "",
-            'apiKey' => "",
-            'from' => "",
-            'fromName' => "",
-        ],
-        ....
-    ],
+	'components' => [
+	        ....
+	        'sendmailer' => [
+	            'class' => 'xiejianxuan5\sendcloud\Mailer',
+	            'apiUser' => "",
+	            'apiKey' => "",
+	            'from' => "",
+	            'fromName' => "",
+	        ],
+        	....
+    	],
 
 
 usage
