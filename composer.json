@@ -1,0 +1,11 @@
+{
+    "name": "swin/yii2-sendcloud",
+    "description": "yii2 sendcloud",
+    "authors": [
+        {
+            "name": "Swin",
+            "email": "xiejianxuan@163.com"
+        }
+    ],
+    "require": {}
+}
