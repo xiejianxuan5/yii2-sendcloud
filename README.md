@@ -1,4 +1,5 @@
 # yii2-sendcloud
+	thanks for https://github.com/maosea0125/SendCloud
 
 need configuration
 
